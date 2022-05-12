@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b730751e.css",
-    "main.js": "/static/js/main.3c5d9eb6.js",
-    "static/js/787.9e67f673.chunk.js": "/static/js/787.9e67f673.chunk.js",
-    "index.html": "/index.html",
-    "main.b730751e.css.map": "/static/css/main.b730751e.css.map",
-    "main.3c5d9eb6.js.map": "/static/js/main.3c5d9eb6.js.map",
-    "787.9e67f673.chunk.js.map": "/static/js/787.9e67f673.chunk.js.map"
+    "main.css": "/apps/invicara/wsHub/static/css/main.b730751e.css",
+    "main.js": "/apps/invicara/wsHub/static/js/main.99dd169d.js",
+    "static/js/787.9e67f673.chunk.js": "/apps/invicara/wsHub/static/js/787.9e67f673.chunk.js",
+    "index.html": "/apps/invicara/wsHub/index.html",
+    "main.b730751e.css.map": "/apps/invicara/wsHub/static/css/main.b730751e.css.map",
+    "main.99dd169d.js.map": "/apps/invicara/wsHub/static/js/main.99dd169d.js.map",
+    "787.9e67f673.chunk.js.map": "/apps/invicara/wsHub/static/js/787.9e67f673.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b730751e.css",
-    "static/js/main.3c5d9eb6.js"
+    "static/js/main.99dd169d.js"
   ]
 }

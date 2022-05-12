@@ -126,22 +126,6 @@ function WSPick(props) {
 
 function WSSlots() {
 
-    // /Users/deneb/Desktop/0/invicara/code-challenge/invicara-ws-reservation/src/components/Workstation/Workstation.js
-
-    let html;
-
-    html = '';
-
-    for (let i = 0; i < WS_SLOTS.length; i++) {
-        const sl = WS_SLOTS[i];
-        html = html + <tr>;
-        html = html + <td> + sl.date + ' ' + sl.start + </td>;
-        html = html + <td> + sl.user + </td>;
-        html = html + </tr>;
-    }
-
-    html = html + `<tr><td>hola fundillo</td></tr>`;
-
     return (
         <div>
             <small><span style={{color: 'red', fontWeight: 'bold'}}>WS Unavailable Slots</span>
