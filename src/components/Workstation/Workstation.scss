@@ -1,0 +1,48 @@
+.ws {
+
+    &ws__mainHead {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    img {
+        width: 3.5rem;
+    }
+
+    &__lblMain {
+        margin-left: 1rem;
+        font-weight: bold;
+        font-size: 3rem;
+        color: #B53471;
+        vertical-align: middle;
+    }
+
+    &__wsIcon {
+        width: 200px;
+        height: 200px;
+    }
+
+}
+
+.ws-grid {
+
+    &__lbl {
+
+        color: #273c75;
+        font-weight: bold;
+    
+    }
+    
+    &__data {
+    
+        color: #ffb142;
+        font-weight: bold;
+        text-align: right;
+    
+    }
+
+}
+
+.WSPick {
+    margin-top: 1rem;
+}
